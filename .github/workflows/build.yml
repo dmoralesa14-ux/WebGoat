@@ -1,3 +1,4 @@
+# SonarQube analysis for WebGoat
 name: SonarQube
 on:
   push:
