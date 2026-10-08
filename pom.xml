@@ -61,6 +61,9 @@
   </issueManagement>
 
   <properties>
+      <sonar.organization>dmoralesa14-ux</sonar.organization>
+</properties>
+
     <!-- Shared properties with plugins and version numbers across submodules-->
     <asciidoctorj.version>3.0.1</asciidoctorj.version>
     <bootstrap.version>5.3.5</bootstrap.version>
